@@ -1,0 +1,10 @@
+# Local runs may contain source context and raw model output. Never publish them.
+**/work/
+**/__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+.env.*
+.DS_Store

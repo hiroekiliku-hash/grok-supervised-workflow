@@ -1,0 +1,4 @@
+interface:
+  display_name: "Grok Supervised Workflow"
+  short_description: "Delegate with artifact checkpoints and Codex fallback"
+  default_prompt: "Use $grok-supervised-workflow to delegate a bounded implementation and independently verify its delivery."
